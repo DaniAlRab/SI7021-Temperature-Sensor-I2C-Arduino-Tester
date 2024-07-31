@@ -19,7 +19,7 @@ void loop() {
   Serial.println(" C");  
   delay(500); // Wait for 1 second
 	
-	//led for teste without a PC
+	//led for test without a PC
 	
   if (temperature > 10){   
     digitalWrite(ledgreen,HIGH);
