@@ -1,5 +1,5 @@
 # SI7021-Temperature-Sensor-I2C-Arduino-Tester
-This Arduino project makes a tester for Silicon Labs I2C Temperature sensor - Si7021
+This Arduino project makes a tester for Silicon Labs I2C Temperature sensor - Si7021 [Si7021](Pinout.png)
 
 # Arduino Default I2C Pinout
 
