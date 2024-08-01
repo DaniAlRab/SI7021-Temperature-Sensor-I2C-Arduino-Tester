@@ -3,8 +3,6 @@ This Arduino project makes a tester for Silicon Labs [I2C](I2C-Single-Master-Sin
 
 # Arduino Default I2C Pinout
 
-The default I2C pinout for Arduino boards varies depending on the model. Here are the I2C pin assignments for some common Arduino boards:
-
 ## Arduino Uno, Nano, Mini
 - **SDA**: A4
 - **SCL**: A5
