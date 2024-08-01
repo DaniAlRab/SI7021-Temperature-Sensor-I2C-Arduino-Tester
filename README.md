@@ -1,20 +1,24 @@
 # SI7021-Temperature-Sensor-I2C-Arduino-Tester
 This Arduino Nano project makes a tester for Silicon Labs I2C Temperature sensor - Si7021
 
-I2C ARDUINO DEFAULT PINOUT 
+# Arduino Default I2C Pinout
 
-Arduino Uno, Nano, Mini:
-SDA: A4
-SCL: A5
+The default I2C pinout for Arduino boards varies depending on the model. Here are the I2C pin assignments for some common Arduino boards:
 
-Arduino Mega 2560:
-SDA: 20
-SCL: 21
+## Arduino Uno, Nano, Mini
+- **SDA**: A4
+- **SCL**: A5
 
-Arduino Leonardo, Micro:
-SDA: 2
-SCL: 3
+## Arduino Mega 2560
+- **SDA**: 20
+- **SCL**: 21
 
-Arduino Due:
-SDA: 20
-SCL: 21
+## Arduino Leonardo, Micro
+- **SDA**: 2
+- **SCL**: 3
+
+## Arduino Due
+- **SDA**: 20
+- **SCL**: 21
+
+Many Arduino-compatible boards also have dedicated pins labeled as SDA and SCL. It's always a good idea to check the specific pinout diagram for your particular board model to confirm the correct pins.
