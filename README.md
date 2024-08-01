@@ -20,5 +20,3 @@ The default I2C pinout for Arduino boards varies depending on the model. Here ar
 ## Arduino Due
 - **SDA**: 20
 - **SCL**: 21
-
-Many Arduino-compatible boards also have dedicated pins labeled as SDA and SCL. It's always a good idea to check the specific pinout diagram for your particular board model to confirm the correct pins.
