@@ -41,6 +41,7 @@ Additionally, here is the **I2C communication diagram**:
 ![I2C Diagram](I2C-Single-Master-Single-Slave.png)
 
 And the **SI7021 sensor pinout** for better understanding:
+
 ![Pinout](Pinout.png)
 
 ---
