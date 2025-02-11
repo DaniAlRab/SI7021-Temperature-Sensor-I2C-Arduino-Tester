@@ -37,6 +37,12 @@ This project provides an **Arduino sketch** to interface with the **SI7021 tempe
 For reference, see the **circuit diagram:**
 ![Schematic](schematic_circuit.png)
 
+Additionally, here is the **I2C communication diagram**:
+![I2C Diagram](I2C-Single-Master-Single-Slave.png)
+
+And the **SI7021 sensor pinout** for better understanding:
+![Pinout](Pinout.png)
+
 ---
 
 ## Setup & Installation
@@ -92,3 +98,5 @@ Temperature: -999.0 C
 ## Additional Resources
 - **SI7021 Datasheet**: [Manufacturer Website](https://www.silabs.com/documents/public/data-sheets/Si7021-A20.pdf)
 - **Arduino I2C Documentation**: [Arduino.cc](https://www.arduino.cc/en/reference/wire)
+
+---
